@@ -1,6 +1,6 @@
 Digital Forensics Investigation
 Overview
-This project is a digital forensic investigation conducted as part of the Bachelor of Cyber Security program at Edith Cowan University (Sri Lanka). The investigation involved analysing a suspect system to identify digital evidence related to potentially illegal activities.
+The investigation involved analysing a suspect system to identify digital evidence related to potentially illegal activities.
 
 Objectives
 Perform forensic evidence acquisition
